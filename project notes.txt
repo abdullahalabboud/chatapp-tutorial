@@ -1,0 +1,14 @@
+#install and setup virtualenvwrapper and virtualenv 
+virtualenv file creating : mkvirtualenv chatapp_env
+activate the env file from vscode with : Ctrl+Shift+p > Python: select interpreter > the created env file 
+
+#install pip libraries :
+what we are needed ?
+-django 
+-djangorestframework
+-PyJWT
+
+#create project chapapi and set defined settings and then create user_control django app and that's it .
+
+
+====================================
